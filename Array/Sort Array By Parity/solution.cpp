@@ -1,3 +1,5 @@
+////given is the function only for learning purpose , hoping main code can be wriiten out easily ///
+
 class Solution {
 public:
     vector<int> sortArrayByParity(vector<int>& A) {
